@@ -1,0 +1,29 @@
+body{
+  background-color: #333333;
+}
+.navbar{
+  background-color: black;
+  color: white;
+  text-decoration: none;
+}
+.navbar-brand{
+  font-family: Brush Script MT, Brush Script Std, cursive;
+}
+.icone{
+  width: 50px;
+  height: 55px;
+  background-color: white;
+  border-radius: 10px;
+}
+.subtitle-nav{
+  font-weight: bold;
+  font-size: small;
+}
+.exchange-icon{
+  width: 45px;
+  height: 40px;
+  border-radius: 10px;
+}
+footer{
+  position: absolute;
+}
